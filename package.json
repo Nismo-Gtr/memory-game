@@ -2,7 +2,7 @@
   "name": "friend-card-memory",
   "version": "0.1.0",
   "private": true,
-  "homepage": 
+  "homepage": "https://nismo-gtr.github.io/memory-game/.",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
